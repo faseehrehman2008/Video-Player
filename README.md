@@ -1,7 +1,7 @@
-🎬 Python Video Player
+Python Video Player
 A feature-rich, modular video player application built with Python, Tkinter, OpenCV, and VLC. Supports multiple video formats with an intuitive GUI and keyboard shortcuts.
 
-✨ Features
+Features
 Video Playback – Play, pause, stop, and seek through videos
 
 Media Controls – Volume adjustment, playback speed control (0.5x – 2.0x)
@@ -16,7 +16,7 @@ Modular Architecture – Clean separation of concerns across multiple files
 
 Status Updates – Real-time feedback on video loading and playback state
 
-🛠️ Tech Stack
+Tech Stack
 Component	Technology
 GUI Framework	Tkinter
 Video Processing	OpenCV (cv2)
